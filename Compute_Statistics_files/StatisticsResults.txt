@@ -1,0 +1,8 @@
+Estadísticas Descriptivas:
+Cantidad: 6
+Media: 35.0
+Mediana: 35.0
+Moda: 10.0
+Varianza: 291.6666666666667
+Desviación Estándar: 17.07825127659933
+Tiempo Transcurrido: 0.0005133152008056641 segundos

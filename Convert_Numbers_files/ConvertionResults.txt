@@ -1,0 +1,5 @@
+Número: 15, Binario: 1111, Hexadecimal: F
+Número: 255, Binario: 11111111, Hexadecimal: FF
+Número: -8, Binario: -1000, Hexadecimal: -8
+Número: 1024, Binario: 10000000000, Hexadecimal: 400
+Tiempo Transcurrido: 0.001489877700805664 segundos

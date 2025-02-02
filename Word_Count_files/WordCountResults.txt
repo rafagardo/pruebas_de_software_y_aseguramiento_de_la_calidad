@@ -1,0 +1,10 @@
+Conteo de Palabras:
+hola: 2
+mundo: 1
+a: 1
+todos: 1
+este: 1
+es: 1
+un: 1
+ejemplo: 2
+Tiempo Transcurrido: 0.00031304359436035156 segundos
